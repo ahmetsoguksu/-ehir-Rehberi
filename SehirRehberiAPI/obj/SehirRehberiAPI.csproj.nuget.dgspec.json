@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\soguk\\Documents\\Angular ile Web Programcılığı\\Şehir Rehberi\\SehirRehberiAPI\\SehirRehberiAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\soguk\\Documents\\Angular ile Web Programcılığı\\Şehir Rehberi\\SehirRehberiAPI\\SehirRehberiAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\soguk\\Documents\\Angular ile Web Programcılığı\\Şehir Rehberi\\SehirRehberiAPI\\SehirRehberiAPI.csproj",
+        "projectName": "SehirRehberiAPI",
+        "projectPath": "C:\\Users\\soguk\\Documents\\Angular ile Web Programcılığı\\Şehir Rehberi\\SehirRehberiAPI\\SehirRehberiAPI.csproj",
+        "packagesPath": "C:\\Users\\soguk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\soguk\\Documents\\Angular ile Web Programcılığı\\Şehir Rehberi\\SehirRehberiAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\soguk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.15.2, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.HttpsPolicy": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "microsoft.aspnet.webhelpers": {
+              "target": "Package",
+              "version": "[3.2.7, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
